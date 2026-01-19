@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://mini-swe-agent.com/latest/"><img src="https://raw.githubusercontent.com/live-swe-agent/live-swe-agent.github.io/refs/heads/main/img/livesweagent.png" alt="mini-swe-agent banner" style="height: 8em"/></a>
+<a href="https://live-swe-agent.github.io/"><img src="https://raw.githubusercontent.com/live-swe-agent/live-swe-agent.github.io/refs/heads/main/img/livesweagent.png" alt="live-swe-agent banner" style="height: 8em"/></a>
 </div>
 
 <h1 align="center">Live-SWE-agent | The First Live AI Software Agent</h1>
